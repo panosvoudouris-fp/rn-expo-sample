@@ -1,5 +1,7 @@
 import { StatusBar } from 'expo-status-bar';
+import { useEffect } from 'react';
 import { StyleSheet, Text, View } from 'react-native';
+import dataAPI from './data';
 
 export default function App() {
   useEffect(() => {

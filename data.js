@@ -13,3 +13,5 @@ const data = async () => {
     }, 2000)
   );
 };
+
+export default data;
